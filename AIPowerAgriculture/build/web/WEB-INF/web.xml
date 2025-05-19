@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>Add_Data</servlet-name>
+        <servlet-class>com.controller.Add_Data</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Admin_Login</servlet-name>
+        <servlet-class>com.controller.Admin_Login</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>weather</servlet-name>
+        <servlet-class>com.controller.weather</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>getFile</servlet-name>
+        <servlet-class>com.algo.getFile</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Add_Data</servlet-name>
+        <url-pattern>/Add_Data</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Admin_Login</servlet-name>
+        <url-pattern>/Admin_Login</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>weather</servlet-name>
+        <url-pattern>/weather</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>getFile</servlet-name>
+        <url-pattern>/getFile</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
