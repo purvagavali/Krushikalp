@@ -48,5 +48,7 @@ Krushikalp helps farmers:
 
 Now, when the application runs, farmers can upload leaf images,check for fertillizers and connect with market through the mobile app, and the trained model will identify the disease ,recommends fertillizers and place order for products using the backend and database.
 
-![WhatsApp Image 2025-06-03 at 12 06 22_b6651cc5](https://github.com/user-attachments/assets/3e57e877-5638-43a3-ab39-84bb48f01a3d)
+## Interface
+![ip2](https://github.com/user-attachments/assets/f054f00d-e7ae-4d06-8a6a-df73a08ff603)
+
 
