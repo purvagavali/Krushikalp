@@ -1,12 +1,12 @@
-# Krushikalp
+## Krushikalp
 A smart agriculture platform designed to assist farmers with crop disease detection, contract farming, and fertilizer recommendations.
-##  Overview
+## Overview
 Krushikalp helps farmers:
 - Detect crop diseases using deep learning.
 - Access contract farming opportunities.
 - Receive fertilizer recommendations based on data.
 
-  ## System Requirements
+## System Requirements
 - JDK 1.8 or higher
 - Android Studio 
 - NetBeans 12+
@@ -47,3 +47,6 @@ Krushikalp helps farmers:
      ```
 
 Now, when the application runs, farmers can upload leaf images,check for fertillizers and connect with market through the mobile app, and the trained model will identify the disease ,recommends fertillizers and place order for products using the backend and database.
+
+![WhatsApp Image 2025-06-03 at 12 06 22_b6651cc5](https://github.com/user-attachments/assets/3e57e877-5638-43a3-ab39-84bb48f01a3d)
+
