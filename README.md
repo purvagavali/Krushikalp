@@ -50,5 +50,13 @@ Now, when the application runs, farmers can upload leaf images,check for fertill
 
 ## Interface
 ![ip2](https://github.com/user-attachments/assets/f054f00d-e7ae-4d06-8a6a-df73a08ff603)
+![ip1](https://github.com/user-attachments/assets/7bd2f77b-dc57-4da3-a119-7006873b807f)
+![ip5](https://github.com/user-attachments/assets/9e94ef06-62f2-4b6d-b592-0296aed9c44e)
+![ip3](https://github.com/user-attachments/assets/c3dd5da4-2528-429e-9562-79d90e86adc8)
+![ip4](https://github.com/user-attachments/assets/9e47197d-45d1-4169-8a0a-ed666c966e44)
+
+
+
+
 
 
