@@ -33,7 +33,7 @@ Krushikalp helps farmers:
    -Unable location and fetch real time weather of particular area
    -Insert required parameters to get recommendations.
 
-5.**Contract Farming**
+ 5.**Contract Farming**
    -Upload crop images ,pesticide on farmer side.
    -On user side buy product by providing card details for further payment.
 
